@@ -33,10 +33,10 @@ pip install -r requirements.txt
 ```bash
 python vx.py/fsocietyv3.py
 ````
+---
 
-### Credits
+## Credits
 
 Original idea: vicouncil
 Added features: sh7un
-
 
