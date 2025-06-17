@@ -37,6 +37,6 @@ python vx.py/fsocietyv3.py
 
 ## Credits
 
-Original idea: vicouncil
-Added features: sh7un
+Original idea: @vicouncil <br>
+Added features: @sh7un
 
