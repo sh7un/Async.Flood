@@ -25,3 +25,18 @@
 pip install -r requirements.txt
 ````
 
+## Running the tool(s)
+
+- Just run either "runVX.bat" or "runFS.bat"
+- Or in the command line, run:
+
+```bash
+python vx.py/fsocietyv3.py
+````
+
+### Credits
+
+Original idea: vicouncil
+Added features: sh7un
+
+
